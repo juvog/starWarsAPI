@@ -1,0 +1,8 @@
+.body {
+    color: #ffb13a;
+    background-size: cover; 
+    overflow: hidden;  
+    background-color:transparent;
+    background: url("../images/stars.jfif")
+
+   }
